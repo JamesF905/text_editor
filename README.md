@@ -165,9 +165,7 @@ James Fidlin is a Junior Full Stack Web Developer, studying at the University of
 [Github-shield]: https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=222
 [Github-url]: https://github.com/JamesF905
 
-[product-screenshot]: assets/images/Project_Screenshot.png
-
-blahsaddasd
+[product-screenshot]: assets/images/Project_Screenshot.gif
 
 
 
