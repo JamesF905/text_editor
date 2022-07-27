@@ -12,10 +12,10 @@
 </p>
 <br />
 
-### Video Walkthrough Link
+### Heroku Link
 
 <p align="center">
-    <a href="https://drive.google.com/file/d/1xe5Skd2xXaGKsBG44NHPMJ-8sfBz9IVe/view"><strong>https://drive.google.com/file/d/1xe5Skd2xXaGKsBG44NHPMJ-8sfBz9IVe/view</strong></a>
+    <a href="gentle-taiga-39265.herokuapp.com"><strong>gentle-taiga-39265.herokuapp.com</strong></a>
 </p>
 
 ### Repo Link
@@ -30,7 +30,7 @@
 
 [![Text Editor][product-screenshot]](https://github.com/JamesF905/text_editor)
 
-This challenge requires me to create a social network app using node.js, npm, mongoose, express, and a NoSQL database. The user story and acceptance criteria are as follows.
+This challenge requires me to create a text editor web app using node.js, npm, express, and an IndexedDB database deployed to Heroku. The user story and acceptance criteria are as follows.
 <br /><br />
 
 ## Contents
@@ -90,15 +90,6 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application 
 ```
-
-## Collaborators
-
-A special thanks to my study group partners.
-
-<p align="left">
-    <a href="https://github.com/mariyasetko"><strong>Mariya Setko</strong></a>
-    <a href="https://github.com/saharkichi"><strong>Sahar Kichi</strong></a>
-</p>
 <br/><br/>
 
 ## Technology Used 
@@ -107,37 +98,21 @@ A special thanks to my study group partners.
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Git Hub](https://github.com/)
 * [Git Bash](https://git-scm.com/)
-* [Moment.js](https://momentjs.com/)
-* [Font Awesome](https://fontawesome.com/icons)
-* [MongoDB](https://www.mongodb.com/)
-* [Mongoose](https://mongoosejs.com/docs/documents.html)
 * [Express](https://www.npmjs.com/package/express)
 * [node.js](https://nodejs.org/en/)
 * [npm](https://www.npmjs.com/)
 * [nodemon](https://www.npmjs.com/package/nodemon)
+* [heroku](https://id.heroku.com/login)
+* [webpack](https://www.npmjs.com/package/webpack)
 
 <p align="center"><a href="#contents">(back to top)</a></p>
 <br/><br/>
 
 ## Installation Instructions 
 
-1) Install GitBash
+1) Follow the <a href="gentle-taiga-39265.herokuapp.com"><strong>link</strong></a> to heroku.
 
-2) Install Node.js
-
-3) Install MongoDB
-
-4) Install Insomnia
-
-5) Clone this repot
-
-6) Run GitBash from your cloned folder
-
-7) type "npm i" in GitBash
-
-8) type "npm run dev" in GitBash
-
-9) Use Insomnia to play with the routes and functionality
+2) Click the intsall Button
 
 <p align="center"><a href="#contents">(back to top)</a></p>
 <br/><br/>
