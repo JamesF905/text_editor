@@ -8,14 +8,14 @@
 # Text Editor
 
 <p align="center">
-  A text editor web application, built using node.js, NPM, Express, Eebpack, and Heroku.<br><br>By: <a href="gentle-taiga-39265.herokuapp.com" target="_blank"><strong>James Fidlin</strong></a><br/>July, 18, 2022
+  A text editor web application, built using node.js, NPM, Express, Eebpack, and Heroku.<br><br>By: <a href="https://gentle-taiga-39265.herokuapp.com" target="_blank"><strong>James Fidlin</strong></a><br/>July, 18, 2022
 </p>
 <br />
 
 ### Heroku Link
 
 <p align="center">
-    <a href="gentle-taiga-39265.herokuapp.com"><strong>gentle-taiga-39265.herokuapp.com</strong></a>
+    <a href="https://gentle-taiga-39265.herokuapp.com"><strong>https://gentle-taiga-39265.herokuapp.com</strong></a>
 </p>
 
 ### Repo Link
