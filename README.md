@@ -8,7 +8,7 @@
 # Text Editor
 
 <p align="center">
-  A text editor application, built using node.js, npm, mongoose, express, and NoSQL.<br><br>By: <a href="https://github.com/JamesF905" target="_blank"><strong>James Fidlin</strong></a><br/>July, 18, 2022
+  A text editor web application, built using node.js, NPM, Express, Eebpack, and Heroku.<br><br>By: <a href="gentle-taiga-39265.herokuapp.com" target="_blank"><strong>James Fidlin</strong></a><br/>July, 18, 2022
 </p>
 <br />
 
